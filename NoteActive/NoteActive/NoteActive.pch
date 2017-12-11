@@ -1,0 +1,17 @@
+//
+//  NoteActive.pch
+//  NoteActive
+//
+//  Created by apple on 12/10/17.
+//  Copyright © 2017 apple. All rights reserved.
+//
+
+#ifndef NoteActive_pch
+#define NoteActive_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#import "Validate.h"
+
+#endif /* NoteActive_pch */

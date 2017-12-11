@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>key</key>
+		<string>firstName</string>
+		<key>input_type</key>
+		<string>Text</string>
+		<key>return_type</key>
+		<string>ReturnKeyNext</string>
+		<key>keyboard_type</key>
+		<string>KeyboardTypeDefault</string>
+		<key>place_holder</key>
+		<string>First Name</string>
+		<key>is_secured</key>
+		<false/>
+		<key>value</key>
+		<string></string>
+		<key>field_type</key>
+		<string>single</string>
+		<key>user_interaction</key>
+		<string>YES</string>
+		<key>tap_gesture</key>
+		<string>NO</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>lastName</string>
+		<key>input_type</key>
+		<string>Text</string>
+		<key>return_type</key>
+		<string>ReturnKeyNext</string>
+		<key>keyboard_type</key>
+		<string>KeyboardTypeDefault</string>
+		<key>place_holder</key>
+		<string>Last Name</string>
+		<key>is_secured</key>
+		<false/>
+		<key>value</key>
+		<string></string>
+		<key>field_type</key>
+		<string>single</string>
+		<key>user_interaction</key>
+		<string>YES</string>
+		<key>tap_gesture</key>
+		<string>NO</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>email</string>
+		<key>input_type</key>
+		<string>Text</string>
+		<key>return_type</key>
+		<string>ReturnKeyNext</string>
+		<key>keyboard_type</key>
+		<string>KeyboardTypeEmailAddress</string>
+		<key>place_holder</key>
+		<string>Email Address</string>
+		<key>is_secured</key>
+		<false/>
+		<key>value</key>
+		<string></string>
+		<key>field_type</key>
+		<string>single</string>
+		<key>user_interaction</key>
+		<string>YES</string>
+		<key>tap_gesture</key>
+		<string>NO</string>
+	</dict>
+	<dict>
+		<key>key</key>
+		<string>password</string>
+		<key>input_type</key>
+		<string>Text</string>
+		<key>return_type</key>
+		<string>ReturnKeyDone</string>
+		<key>keyboard_type</key>
+		<string>KeyboardTypeDefault</string>
+		<key>place_holder</key>
+		<string>Password</string>
+		<key>is_secured</key>
+		<true/>
+		<key>value</key>
+		<string></string>
+		<key>field_type</key>
+		<string>single</string>
+		<key>user_interaction</key>
+		<string>YES</string>
+		<key>tap_gesture</key>
+		<string>NO</string>
+	</dict>
+</array>
+</plist>
